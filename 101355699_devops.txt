@@ -1,1 +1,8 @@
 DevOps is a software development approach that emphasizes collaboration, automation, and continuous improvement to streamline the process of delivering high-quality software quickly and efficiently. DevOps accelerates software delivery by automating processes, reducing bottlenecks, and improving collaboration. Devops is such a fun course. 
+Planning: Foster collaboration between teams.
+Coding: Use version control and automated code quality checks.
+Building: Automate build processes for deployable artifacts.
+Testing: Implement continuous testing for rapid feedback.
+Deployment: Enable automated, consistent deployments.
+Monitoring: Continuously monitor and gather feedback for improvements.
+Feedback Loop: Promote a culture of collaboration and learning to refine the process continually.
