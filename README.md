@@ -1,3 +1,3 @@
-# This is Samuel's branch
+# This is group 23 Devops
 
-student id: 101356457
+group members: Ali, Kaarish, Samuel
