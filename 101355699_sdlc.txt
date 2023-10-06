@@ -1,1 +1,8 @@
 Learning Because it enables teams to automate and optimize processes, DevOps engineering is essential to the software development cycle because it results in quicker, more dependable, and more effective product delivery. DevOps engineers connect development and operations, fostering teamwork, minimizing mistakes, and improving the entire software development lifecycle. Their knowledge aids businesses in adjusting to the requirements of contemporary software development, where success depends on agility and continuous delivery. DevOps is not a program in the conventional sense; rather, it is a combination of cultural ideas, norms, and techniques that are intended to enhance collaboration between teams working on development (Dev) and IT operations (Ops). DevOps focuses on automating and optimizing the processes for developing and deploying software in order to provide software that is quicker to build, more dependable, and of higher quality. 
+Planning: Foster collaboration between teams.
+Coding: Use version control and automated code quality checks.
+Building: Automate build processes for deployable artifacts.
+Testing: Implement continuous testing for rapid feedback.
+Deployment: Enable automated, consistent deployments.
+Monitoring: Continuously monitor and gather feedback for improvements.
+Feedback Loop: Promote a culture of collaboration and learning to refine the process continually.
