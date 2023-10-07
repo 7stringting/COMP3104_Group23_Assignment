@@ -1,10 +1,3 @@
-# This is group 23 Devops
-
-group members: Ali, Kaarish, Samuel, Amir
-# COMP3104_Group23_Assignment
-<<<<<<< HEAD
+# This is group 23 Devops member
 
 Kaarish Parameswaran
-=======
-Ali Al Aoraebi 101386021
->>>>>>> main
