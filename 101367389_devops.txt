@@ -1,0 +1,1 @@
+DevOps promotes a shift in mindset from traditional siloed teams (where developers and operations teams work separately) to a more integrated approach.
