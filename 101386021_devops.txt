@@ -1,2 +1,0 @@
-The primary goal of a DevOps course is to equip students with the knowledge and skills needed to streamline and automate the software development and deployment process, leading to faster and more reliable software delivery.
-Understanding the DevOps culture, principles, and its significance in modern software development.
